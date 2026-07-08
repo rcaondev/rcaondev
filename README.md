@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Rodrigo+Caon+Santos;IT+Manager+%7C+BI+%26+Automation;Microsoft+365+%E2%80%A2+Power+BI+%E2%80%A2+.NET" alt="typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=ed900e&center=true&vCenter=true&width=600&lines=Rodrigo+Caon+Santos;IT+Manager+%7C+BI+%26+Automation;Microsoft+365+%E2%80%A2+Power+BI+%E2%80%A2+.NET" alt="typing header" />
 
 <br/>
 
@@ -63,9 +63,9 @@ Analista de TI que gosta de transformar dados dispersos em decisão e processos 
 ### 🚀 No que estou focado agora
 
 ```text
-🔹 Infraestrutura de dados: Azure SQL + Power BI Pro para as empresas do grupo
+🔹 Infraestrutura de dados: Azure SQL + Power BI Pro
 🔹 Governança de compartilhamento externo no SharePoint com Power Automate
-🔹 Laboratório de IA local (Ollama, Open WebUI, ChromaDB) no homelab
+🔹 Laboratório de IA local (Ollama, Open WebUI, ChromaDB)
 🔹 Aprofundando C#/.NET com projetos WPF e Blazor
 🔹 Pós-graduação em Gestão de TI
 ```
