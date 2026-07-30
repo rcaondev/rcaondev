@@ -15,7 +15,7 @@
 
 Analista de TI que gosta de transformar dados dispersos em decisão e processos manuais em automação. Meu dia a dia mistura governança de **Microsoft 365**, dashboards de **Business Intelligence** e desenvolvimento de ferramentas internas — sempre buscando o ponto onde tecnologia e negócio se encontram.
 
-- 🏢 Atuo como **IT Manager** liderando infraestrutura, segurança e sistemas internos
+- 🏢 Atuo como **Analista de TI** liderando infraestrutura, segurança e sistemas internos
 - 📊 Construo dashboards em **Power BI** com modelagem **DAX** e **Power Query M**
 - ⚙️ Automatizo fluxos com **Power Automate**, **Google Apps Script** e **n8n**
 - 🔐 Trabalho com cibersegurança: conscientização, simulações de phishing e gestão de acessos
